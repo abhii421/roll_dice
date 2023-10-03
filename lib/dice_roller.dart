@@ -61,7 +61,7 @@ class DiceRoller extends StatefulWidget {
               // final player = AudioCache();
               // player.play('rollingdice.mp3');
       },
-            child: const Text('  Roll It!  ', style: TextStyle(fontSize: 32, fontFamily: 'Schyler'),),
+            child: const Text('  Roll it!  ', style: TextStyle(fontSize: 32, fontFamily: 'Schyler'),),
 
 
 
